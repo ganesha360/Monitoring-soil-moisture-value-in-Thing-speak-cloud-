@@ -1,6 +1,7 @@
 ## NAME: GANESH R
 ## REG. NO. : 2122222240029
-# Monitoring-soil-moisture-value-in-Thing-speak-cloud
+## DATE : 06.11.2024
+# EX 05 Monitoring-soil-moisture-value-in-Thing-speak-cloud
 # Uploading soil moisture sensor data in Thing Speak cloud
 
 # AIM:
